@@ -16,9 +16,11 @@
 * `index of the function` `name of the function` //for all the functions
 * `space separated callstack of the stacktrace` //for all the stacktraces
 
-The example is [here](https://github.com/AwatifYasmin/PerformanceDebugging/blob/master/stacktraces.txt)
+The example is [here](https://github.com/IITDU-AMIT-MSSE1044/course-project-AwatifYasmin/blob/master/stacktraces.txt)
 
 ## Output file format
 * frequent subsequence (indexes of the functions, -1 as the end of the subsequence)
 * #SUP: number of callstacks contains this subsequence
 * #SID: indices list of the callstacks contains this subsequence
+
+The example is [here](https://github.com/IITDU-AMIT-MSSE1044/course-project-AwatifYasmin/blob/master/output.txt)
