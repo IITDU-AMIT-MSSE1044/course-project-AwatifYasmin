@@ -24,3 +24,10 @@ The example is [here](https://github.com/IITDU-AMIT-MSSE1044/course-project-Awat
 * #SID: indices list of the callstacks contains this subsequence
 
 The example is [here](https://github.com/IITDU-AMIT-MSSE1044/course-project-AwatifYasmin/blob/master/output.txt)
+
+## Base project
+StackMine has been applied in performancce debugging activities at a Microsoft team for performance analysis, espacially for a large number of executive traces by calculating their cost.
+## My project
+In my project i calculated the frequency of the sequences. I could not calculate the cost. It was not complicated but i put a lot of effort to study on the input set and generated it. So i could not finish the rest on time.
+
+I didn't extended the existing project.
