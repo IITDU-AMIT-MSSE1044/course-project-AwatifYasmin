@@ -1,14 +1,14 @@
 10 12
-0 save
-1 pause
-2 suspend
-3 continue
-4 start
-5 stop
-6 undo
-7 edit
-8 insert
-9 delete
+0 save 12
+1 pause 5
+2 suspend 5
+3 continue 5
+4 start 10
+5 stop 10
+6 undo 20
+7 edit 15
+8 insert 15
+9 delete 12
 1 8 5 8 4 3 4 1
 1 8 9 2 8 3 5
 6 9 5 2 6 8 5 3
