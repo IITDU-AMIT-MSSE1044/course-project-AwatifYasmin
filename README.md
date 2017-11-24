@@ -28,6 +28,6 @@ The example is [here](https://github.com/IITDU-AMIT-MSSE1044/course-project-Awat
 ## Base project
 StackMine has been applied in performancce debugging activities at a Microsoft team for performance analysis, espacially for a large number of executive traces by calculating their cost.
 ## My project
-In my project i calculated the frequency of the sequences. I could not calculate the cost. It was not complicated but i put a lot of effort to study on the input set and generated it. So i could not finish the rest on time.
+In my project i calculated the frequency of the sequences and cluster them. Then calculated their cost as the base project did.
 
 I didn't extended the existing project.
